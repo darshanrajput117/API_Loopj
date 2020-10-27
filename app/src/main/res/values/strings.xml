@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">API</string>
+
+    <string name="action_login">Login</string>
+    <string name="action_registeration">Registration</string>
+
+    <string name="cp_name">Biz-insights</string>
+    <string name="tv_email">Email Id</string>
+    <string name="hint_email">Enter Email Id</string>
+
+    <string name="tv_password">Password</string>
+    <string name="hint_password">Enter Password</string>
+    <string name="tv_forgetpassword">Forget Password</string>
+    <string name="tv_dyha">Already Have Account?</string>
+    <string name="tv_fname">First Name</string>
+    <string name="tv_lname">Last Name</string>
+    <string name="hint_fname">Enter First Name</string>
+    <string name="hint_lname">Enter Password</string>
+    <string name="tv_cpassword">Confirm Password</string>
+    <string name="hint_cpassword">Enter Confirm Password</string>
+    <string name="tv_mobileno">Mobile No</string>
+    <string name="hint_mobileno">Enter Mobile Number</string>
+    <string name="tv_dnha">Don\'t Have Account</string>
+    <string name="hint_uname">Enter User Name</string>
+    <string name="tv_uname">Username</string>
+    <string name="tv_address">Address</string>
+    <string name="hint_address">Enter Address</string>
+    <string name="tv_userlist">User List</string>
+</resources>

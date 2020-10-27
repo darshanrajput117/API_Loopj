@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.APIDemo1" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#000000</item>
+        <item name="colorAccent">#0E82B6</item>
+        <item name="colorPrimaryDark">#F52C2C2C</item>
+    </style>
+
+    <style name="bold_action_btn">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+</resources>
