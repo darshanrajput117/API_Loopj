@@ -9,7 +9,7 @@
     android:gravity="center"
     android:orientation="horizontal"
     android:paddingHorizontal="@dimen/_18sdp"
-    android:paddingVertical="@dimen/_8sdp">
+    android:paddingVertical="@dimen/_9sdp">
 
     <androidx.appcompat.widget.AppCompatImageView
         android:layout_width="wrap_content"
